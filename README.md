@@ -6,8 +6,8 @@ My name is **Matthieu Schoen**, I am a 2nd year student at {EPITECH}, and I'm ac
 I am passionnate by web development, DevOps and cybersecurity.
 
 ## 🔧 My skills
-- Programming Languages: Python, JvaScript, C
-- Web Development: HTML, CSS, React, Node.js, Express
+- Programming Languages: Python, JavaScript, C
+- Web Development: HTML, CSS, React, Node.js, Express, mysql
 
 ## 📫 How to reach me
 - Email: [Professionnal Mail](mailto:matthieu.schoen@epitech.eu)
