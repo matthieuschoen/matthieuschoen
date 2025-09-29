@@ -1,7 +1,7 @@
 # 💻 Welcome Into My GitHub profile 
 
 ## ❓ Who Am I ?
-My name is **Matthieu Schoen**, I am a 2nd year student at {EPITECH}, and I'm actually 19 year.  
+My name is **Matthieu Schoen**, I am a student at {EPITECH}.  
   
 I am passionnate by web development, DevOps and cybersecurity.
 
